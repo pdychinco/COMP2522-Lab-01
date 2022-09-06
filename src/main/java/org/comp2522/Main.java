@@ -1,4 +1,4 @@
-package comp2522;
+package org.comp2522;
 
 /**
  * This is the main function that prints out a statement to the terminal.
